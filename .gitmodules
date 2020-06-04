@@ -1,0 +1,3 @@
+[submodule "apps/udacity-devops-capstone-react-app"]
+	path = apps/udacity-devops-capstone-react-app
+	url = https://github.com/larsm6/udacity-devops-capstone-react-app.git
